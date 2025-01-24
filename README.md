@@ -15,3 +15,4 @@ I have a profound respect for product management because I have dabbled in it my
 📫 How to reach me ...
 - https://jasonglover.me is a good place to start.
 - Also https://www.linkedin.com/in/jasonglover/
+- I also post total garbage on [Bluesky](https://bsky.app/profile/jason.bsky.encode.co.nz)
